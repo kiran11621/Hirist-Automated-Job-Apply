@@ -76,6 +76,3 @@ Open `hirist_auto_apply.py` and look for the top-level configuration variables (
 
 **Contributing**
 PRs and issues welcome. Keep changes small and focused. Add a `requirements.txt` if you introduce new dependencies.
-
-**License**
-MIT — see LICENSE (or add one) for details.
